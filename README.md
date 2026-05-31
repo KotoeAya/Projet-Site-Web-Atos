@@ -20,7 +20,7 @@ Contexte : Projet d'équipe réalisé en SAE 1.06 (Conception de sites web) - BU
 
 ## Techniques et Savoir-faire Appris
 
-- HTML : Structuration propre des pages avec des balises modernes (<header>, <nav>, <main>, <footer>) pour un code lisible et bien découpé.
+- HTML : Structuration propre des pages avec des balises modernes ("header", "nav", "main", "footer") pour un code lisible et bien découpé.
 
 - Design CSS Centralisé : Gestion dans un unique fichier style.css (Hero image, mise en page, typographies) pour éviter la duplication.
 
