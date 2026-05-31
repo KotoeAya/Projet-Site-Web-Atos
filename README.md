@@ -30,7 +30,7 @@ Contexte : Projet d'équipe réalisé en SAE 1.06 (Conception de sites web) - BU
 
 ## Structure du projet
 
-'''
+```
 C2-Atos/
 ├── Accueil.html
 ├── Nos Engagements.html
@@ -46,4 +46,4 @@ C2-Atos/
         ├── Footer/
         ├── Nos Engagements/
         └── Nos Services/
-'''
+```
