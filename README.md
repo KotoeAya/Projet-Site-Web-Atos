@@ -37,7 +37,7 @@ C2-Atos/
 ├── Nos Services.html
 ├── Rejoignez-nous.html
 ├── Script/
-│   └── script.js          # Interactions (bulles services + filtres offres)
+│   └── script.js          # Interactions (bulles services)
 └── Style/
     ├── style.css           # Feuille de style unique
     └── Image/
