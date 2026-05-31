@@ -27,3 +27,23 @@ Contexte : Projet d'équipe réalisé en SAE 1.06 (Conception de sites web) - BU
 - Micro-interactions JavaScript : Ajout pour améliorer l'expérience utilisateur :
 
   - Système d'accordéon (bulles dépliables/repliables au clic dans "Nos Services").
+
+## Structure du projet
+
+'''
+C2-Atos/
+├── Accueil.html
+├── Nos Engagements.html
+├── Nos Services.html
+├── Rejoignez-nous.html
+├── Script/
+│   └── script.js          # Interactions (bulles services + filtres offres)
+└── Style/
+    ├── style.css           # Feuille de style unique
+    └── Image/
+        ├── Accueil/
+        ├── Header/
+        ├── Footer/
+        ├── Nos Engagements/
+        └── Nos Services/
+'''
